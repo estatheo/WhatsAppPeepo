@@ -8,7 +8,9 @@ var peepoDictionary = {
     "peepoPoopoo" : "https://cdn.frankerfacez.com/emoticon/339612/1",
     "peepoStrong" : "https://cdn.frankerfacez.com/emoticon/337832/1",
     "peepoBlush" : "https://cdn.frankerfacez.com/emoticon/337543/1",
-    "peepoK" : "https://cdn.frankerfacez.com/emoticon/337125/1"
+    "peepoK" : "https://cdn.frankerfacez.com/emoticon/337125/1",
+    "Pog": "https://cdn.frankerfacez.com/emoticon/210748/2",
+    "PepeSmoke": "https://i.imgur.com/JWuFWLQ.gif"
 }
 setTimeout(function(){
     var spans= Array.from(document.querySelectorAll('span'));
